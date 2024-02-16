@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cybersecurity, Ethical Hacking, and Penetration Testing.
 - 🌱 I’m currently learning advanced penetration testing techniques and deepening my knowledge in cybersecurity specializations.
 - 💞️ I’m looking to collaborate on cybersecurity projects, open-source security tools, and ethical hacking initiatives.
-- 📫 How to reach me: Email me at arifbean77@gmail.com or connect with me on LinkedIn at linkedin.com/in/sk-arif-bin-ekram-4b6336220.
+- 📫 How to reach me: Email me at skarifbinekram@gmail.com or connect with me on LinkedIn at linkedin.com/in/sk-arif-bin-ekram-4b6336220.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Aside from my passion for cybersecurity, I enjoy exploring new technologies and staying updated with the latest trends in IT security. I'm also an avid learner who's always interested in tackling new challenges and solving complex problems.
 
